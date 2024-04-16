@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "message": "Food fetched successfully",
+  "data": [
+    {
+      "_id": "661238816a51cbe33250b77c",
+      "name": "IPhone 9",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "description": "An apple mobile which is nothing like apple",
+      "ratings": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "image":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/Untitled-9.jpeg"
+    },
+    {
+      "_id": "66126d084cf6f3ad26f4430d",
+      "name": " IPhone X",
+      "price": 899,
+      "ratings": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "discountPercentage": 17.94,
+      "category": "smartphones",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynY_hVUB-3INUIX8HNHWYndpxX4D9Q8hFOOswHZ_Q6A&s"
+    },
+    {
+      "_id": "66126d234cf6f3ad26f4430f",
+      "name": "Samsung Universe 9",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "ratings": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycd4NpSD_Tpmntu7wocAI-Z2hfWAYOZwCdLKRVmdWKWk_Ocp1vd3OYvm2ANyIfvppOIY&usqp=CAU"
+    },
+    {
+      "_id": "66126d344cf6f3ad26f44311",
+      "name": "OPPO F19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "ratings": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "image": "https://images.indianexpress.com/2018/09/oppo-f9-pro-759.jpg?w=414"
+      
+    },
+    {
+      "_id": "66126d444cf6f3ad26f44313",
+      "name": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+     "category": "smartphones",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFiX3rZxXWOIv0CW8kKjz5Q4AvnR2v_s_lBsjitYqQQ&s"
+    }
+  ]
+}
